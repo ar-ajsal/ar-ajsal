@@ -1,31 +1,127 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm ar ajsal</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<!--
-**ar-ajsal/ar-ajsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<img align='right' width='400' alt='Coding' src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp"/>
 
-Here are some ideas to get you started:
+- 🎓 I’m a Plus two   Graduate in bio science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **MERN Stack**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ar-ajsal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ar-ajsal&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-ajsal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💬 Ask me about **React & Node.js**
 
----
-[![](https://visitcount.itsvg.in/api?id=ar-ajsal&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Socials:</h3>
+<p align="left"><a href="https://www.linkedin.com/in/afsal-m-b6764720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsal-m-b6764720a" height="30" width="40" /></a>
+</p>
+
+<br/>
+
+<h3 align="left">Technologies & Tools:</h3>
+<p align="center">
+    <!-- Node.js -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+    </a>
+    <!-- Express.js -->
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    </a>
+    <!-- React -->
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    </a>
+    <!-- Next.js -->
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <!-- PostgreSQL -->
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+    </a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+    </a>
+    <!-- AWS -->
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    </a>
+    <!-- GCP -->
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
+    </a>
+    <!-- Kubernetes -->
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
+    </a>
+    <!-- Docker -->
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+    </a>
+    <!-- Grafana -->
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="40" height="40"/>
+    </a>
+    <!-- Prometheus -->
+    <a href="https://prometheus.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/>
+    </a>
+    <!-- Redis -->
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+    </a>
+    <!-- REST APIs -->
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="REST APIs" width="40" height="40"/>
+    </a>
+    <!-- gRPC -->
+    <a href="https://grpc.io" target="_blank" rel="noreferrer">
+        <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" width="40" height="40"/>
+    </a>
+    <!-- Socket.IO -->
+    <a href="https://socket.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="Socket.IO" width="40" height="40"/>
+    </a>
+    <!-- WebRTC -->
+    <a href="https://webrtc.org" target="_blank" rel="noreferrer">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v8d1d0686aef3ca9671e026a6ce14af5c61b805aabef7c385b0e34494acbfc654/webrtc/images/lockup.svg" alt="WebRTC" width="40" height="40"/>
+    </a>
+    <!-- Prisma -->
+    <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" width="40" height="40"/>
+    </a>
+    <!-- Mongoose -->
+    <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" width="40" height="40"/>
+    </a>
+    <!-- Nginx -->
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+    </a>
+    <!-- Razorpay -->
+    <a href="https://razorpay.com" target="_blank" rel="noreferrer">
+        <img src="https://razorpay.com/favicon.png" alt="Razorpay" width="40" height="40"/>
+    </a>
+    <!-- Stripe -->
+    <a href="https://stripe.com" target="_blank" rel="noreferrer">
+        <img src="https://assets.stripeassets.com/fzn2n1nzq965/01hMKr6nEEGVfOuhsaMIXQ/c424849423b5f036a8892afa09ac38c7/favicon.ico" alt="Stripe" width="40" height="40"/>
+    </a>
+    <!-- Tailwind CSS -->
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+        <img src="https://tailwindcss.com/favicons/favicon.ico?v=4" alt="Tailwind CSS" width="40" height="40"/>
+    </a>
+</p>
+
+
+<hr/>
+<div align='center'>
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAfsal&show_icons=true&theme=dark&locale=en" alt="TheAfsal" />
+</div>
