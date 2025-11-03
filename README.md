@@ -14,7 +14,7 @@
 <br/>
 
 <h3 align="left">Socials:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/afsal-m-b6764720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afsal-m-b6764720a" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/a-r-ajsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajsal-m-b6764720a" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -123,5 +123,5 @@
 <hr/>
 <div align='center'>
     
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheAfsal&show_icons=true&theme=dark&locale=en" alt="TheAfsal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Theajsal&show_icons=true&theme=dark&locale=en" alt="TheAjsal" />
 </div>
